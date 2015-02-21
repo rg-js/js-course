@@ -1,2 +1,2 @@
 # js-course
-Tasks of JS-REST course.
+JS-REST course.
